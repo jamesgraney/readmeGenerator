@@ -1,7 +1,7 @@
-# h
+# README Generator
   
   ## Description
-  h
+  This project is a dynamic README generator that simplifies the process of creating a professional and well-structured README file.
   
   ## Table of Contents
   - [Installation](#installation)
@@ -13,11 +13,11 @@
   
   ## Installation
   ```
-  h
+  Making sure all dependencies were installed properly.
   ```
   
   ## Usage
-  h
+  To generate an effective README generator file through node.js.
   
   ## License
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -25,15 +25,15 @@
   For more details, see the license documentation: https://opensource.org/licenses/MIT
   
   ## Contribution
-  h
+  Ensuring code quality and consistency with the projects standards.
   
   ## Testing
   ```
-  h
+  Following the project instructions and making sure everything was installed properly.
   ```
   
   ## Questions
   If you have any questions, feel free to reach out:
-  - GitHub: [h](https://github.com/h)
-  - Email: [h](mailto:h)
+  - GitHub: [https://github.com/jamesgraney/readmeGenerator](https://github.com/https://github.com/jamesgraney/readmeGenerator)
+  - Email: [jamesgarlandraney@gmail.com](mailto:jamesgarlandraney@gmail.com)
   
